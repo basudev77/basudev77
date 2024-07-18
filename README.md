@@ -1,10 +1,10 @@
 # 💫 About Me:
-Hello! I'm Basudev Das, a third-year engineering student from India pursuing a B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence. I am passionate about AI and software development, focusing on mastering data structures and algorithms to build innovative solutions.
+`Hello! I'm Basudev Das, a third-year engineering student from India pursuing a B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence. I am passionate about AI and software development, focusing on mastering data structures and algorithms to build innovative solutions.
 ✔ I'm currently learning ReactJS while also practicing Data Structures and Algorithms (DSA) in Java
 ✔ I’m looking to collaborate with any Open - Source projects
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court! 😉
 📫 How to reach me dbasudev329@gmail.com
-⚡ I play video games 🎮.
+⚡ I play video games 🎮.`
 
 
 ## 🌐 Socials:
