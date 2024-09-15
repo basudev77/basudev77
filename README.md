@@ -3,7 +3,7 @@
 
 👨‍🎓 **Education**: Third-year engineering student pursuing B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence.
 
-🌟 **Passion**: I am passionate about front-end web development and mastering data structures and algorithms to build innovative solutions.
+🌟 **Passion**: I am passionate about web development and mastering data structures and algorithms to build innovative solutions.
 
 📘 **Current Focus**: 
 - Learning ReactJS for front-end development
